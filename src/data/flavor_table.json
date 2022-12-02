@@ -1,0 +1,32 @@
+{
+    "Sweet": {
+        "Salty": "Egg",
+        "Sour": "Catch",
+        "Bitter": "Egg",
+        "Hot": "Raid"
+    },
+    "Salty": {
+        "Sweet": "Encounter",
+        "Sour": "Encounter",
+        "Bitter": "Exp",
+        "Hot": "Encounter"
+    },
+    "Sour": {
+        "Sweet": "Catching",
+        "Salty": "Teensy",
+        "Bitter": "Teensy",
+        "Hot": "Teensy"
+    },
+    "Bitter": {
+        "Sweet": "Item Drop",
+        "Salty": "Exp",
+        "Sour": "Item Drop",
+        "Hot": "Item Drop"
+    },
+    "Hot": {
+        "Sweet": "Raid",
+        "Salty": "Humungo",
+        "Sour": "Humungo",
+        "Bitter": "Humungo"
+    }
+}
