@@ -1,14 +1,14 @@
 {
     "Sweet": {
         "Salty": "Egg",
-        "Sour": "Catch",
+        "Sour": "Catching",
         "Bitter": "Egg",
         "Hot": "Raid"
     },
     "Salty": {
         "Sweet": "Encounter",
         "Sour": "Encounter",
-        "Bitter": "Exp",
+        "Bitter": "Exp.",
         "Hot": "Encounter"
     },
     "Sour": {
@@ -19,7 +19,7 @@
     },
     "Bitter": {
         "Sweet": "Item Drop",
-        "Salty": "Exp",
+        "Salty": "Exp.",
         "Sour": "Item Drop",
         "Hot": "Item Drop"
     },
